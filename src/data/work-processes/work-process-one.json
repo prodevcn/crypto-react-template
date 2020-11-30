@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Register Fot BTC",
+    "excerpt": "There are many variations of passages of Lorem Ipsum available.",
+    "icon": "/images/icons/8.png",
+    "url": "/contact"
+  },
+  {
+    "id": "2",
+    "title": "Open Creypto Wallet",
+    "excerpt": "There are many variations of passages of Lorem Ipsum available.",
+    "icon": "/images/icons/9.png",
+    "url": "/contact"
+  },
+  {
+    "id": "3",
+    "title": "Start Working WIth BTC",
+    "excerpt": "There are many variations of passages of Lorem Ipsum available.",
+    "icon": "/images/icons/10.png",
+    "url": "/contact"
+  }
+]
